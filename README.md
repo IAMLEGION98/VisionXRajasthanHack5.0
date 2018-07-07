@@ -2,6 +2,8 @@
  To provide route optimization( connecting paths of freight carriers and suggesting rerouted paths). To minimize the FOB cost of manufacturing a company good, prior to export.
  TOOLS USED:  MATLAB , Jupyter Notebook, Online API – BigML, ThingSpeak, OpenCV, Spyder, Unity3d, Vuforia library, Raspberrypi3b+, Picam software, Blender.
  
+ 
+ 
  The datasets for the complete model have been provided in two files: ‘fin.csv’ and ‘eye_last.csv’.
 1.	COST ESTIMATION - fin.csv : This file contains the dataset for cost estimation with three parameters : Item, Quantity and Region. The three parameters are used to predict the Price for the buyer.
 •	We have chosen only raw materials as the items to facilitate in making a correct real-time estimation of the price for the buyer based on varying economic factors.
